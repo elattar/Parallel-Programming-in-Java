@@ -20,4 +20,3 @@ This repository contains 4 mini-project with above mentioned technology, where
 
 ### [Accomplishment Certificate](https://coursera.org/share/9ef04a000fe6418c58cceb25eb85678d)
 
-# [Specialization Accomplishment Certificate](https://coursera.org/share/9ef04a000fe6418c58cceb25eb85678d)
